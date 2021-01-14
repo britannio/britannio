@@ -1,5 +1,14 @@
-### Hi there 👋
+### H3110 W0R1D 🌍
 
+<br>
+<p align='center'>
+<a href="https://www.linkedin.com/in/britannio" target="_blank">LinkedIn</a>
+</p>
+<br>
+
+Computer Science student at the [University of Southampton](https://www.southampton.ac.uk/).
+
+[![britannio's github stats](https://github-readme-stats.vercel.app/api?username=britannio&show_icons=true&theme=dark)](https://github.com/britannio/)
 <!--
 **britannio/britannio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
