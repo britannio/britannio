@@ -1,7 +1,7 @@
 ## Hey there! 🌍
 * 💻 I'm a Computer Science MEng student and [GSDC](https://developers.google.com/community/dsc/) Core Team Member at the [University of Southampton](https://www.southampton.ac.uk/).
-* 📱 Current Job: Lead Mobile Developer at [Holstee](https://www.holstee.com/).
-* 🩺 Current Internship: Software Developer at [Clinical Informatics Research Unit](https://www.the-ciru.com/).
+* 💼 Current Job: Lead Mobile Developer at [Holstee](https://www.holstee.com/).
+* 🩺 Current Internship: Software Developer at the [Clinical Informatics Research Unit](https://www.the-ciru.com/).
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
 * ✍🏾 Favourite text editor: Vim
