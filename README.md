@@ -1,14 +1,14 @@
-### H3110 W0R1D 🌍
-
-<br>
-<p align='center'>
-<a href="https://www.linkedin.com/in/britannio" target="_blank">LinkedIn</a>
-</p>
-<br>
-
-Computer Science student at the [University of Southampton](https://www.southampton.ac.uk/).
-
-[![britannio's github stats](https://github-readme-stats.vercel.app/api?username=britannio&show_icons=true&theme=dark)](https://github.com/britannio/)
+## Hey there! 🌍
+* 💻 I'm a Computer Science MEng student and [GSDC](https://developers.google.com/community/dsc/) Core Team Member at the [University of Southampton](https://www.southampton.ac.uk/).
+* 📱 Current Job: Lead Mobile Developer at [Holstee](https://www.holstee.com/).
+* 🩺 Current Internship: Software Developer at [Clinical Informatics Research Unit](https://www.the-ciru.com/).
+* 🥏 Favourite sport: Ultimate Frisbee
+* ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
+* ✍🏾 Favourite text editor: Vim
+* 📚 Currently Reading: Thinking, Fast and Slow
+---
+### Lets connect!
+[LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
 <!--
 **britannio/britannio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
