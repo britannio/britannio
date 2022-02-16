@@ -1,11 +1,11 @@
 ## Hey there! 🌍
 * 💻 I'm a Computer Science MEng student and [GSDC](https://developers.google.com/community/dsc/) Core Team Member at the [University of Southampton](https://www.southampton.ac.uk/).
 * 💼 Current Job: Lead Mobile Developer at [Holstee](https://www.holstee.com/).
-* 🩺 Most Recent Internship: Software Developer at the [Clinical Informatics Research Unit](https://www.the-ciru.com/).
+* 🩺 Next Internship: Software Engineer at [Wise](https://wise.com).
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
 * ✍🏾 Favourite text editor: Vim
-* 📚 Currently Reading: Thinking, Fast and Slow
+* 📚 Currently Reading: The 4-hour work week
 ---
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
