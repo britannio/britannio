@@ -1,11 +1,11 @@
 ## Hey there! 🌍
-* 💻 I'm a Computer Science MEng student and [GSDC](https://developers.google.com/community/dsc/) Core Team Member at the [University of Southampton](https://www.southampton.ac.uk/).
-* 💼 Most Recent Job: Lead Mobile Developer at [Holstee](https://www.holstee.com/).
-* 🩺 Current Internship: Software Engineer at [Wise](https://wise.com).
+* 💻 I'm a Computer Science MEng student at the [University of Southampton](https://www.southampton.ac.uk/).
+* 💼 Most Recent Job: Lead Front-End Developer at [Holstee](https://www.holstee.com/).
+* 🩺 Most Recent Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
 * ✍🏾 Favourite text editor: Vim
-* 📚 Currently Reading: The 4-hour work week
+* 📚 Most Recent Book: The Lean Startup
 ---
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
