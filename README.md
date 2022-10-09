@@ -5,7 +5,7 @@
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
 * ✍🏾 Favourite text editor: Vim
-* 📚 Most Recent Book: The Lean Startup
+* 📚 Most Recent Book: [Talking To Humans](https://www.talkingtohumans.com/)
 ---
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
