@@ -4,7 +4,7 @@
 * 🩺 Most Recent Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
-* ✍🏾 Favourite text editor: Vim
+* ✍🏾 Favourite IDE: IntelliJ IDEA + [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
 * 📚 Most Recent Book: [Talking To Humans](https://www.talkingtohumans.com/)
 ---
 ### Lets connect!
