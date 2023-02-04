@@ -5,7 +5,7 @@
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
 * ✍🏾 Favourite IDE: IntelliJ IDEA + [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
-* 📚 Most Recent Book: [Talking To Humans](https://www.talkingtohumans.com/)
+* 📚 Most Recent Book: How to Become a Straight-A Student
 ---
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
