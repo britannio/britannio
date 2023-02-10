@@ -1,4 +1,9 @@
-## Hey there! 🌍
+> "The important thing, once you have enough to eat and a nice house, is what you can do for others, what you can contribute to the enterprise as a whole." - Donald Knuth
+
+---
+
+
+## Welcome to my profile!
 * 💻 I'm a Computer Science MEng student at the [University of Southampton](https://www.southampton.ac.uk/).
 * 💼 Most Recent Job: Lead Front-End Developer at [Reflection.app](https://reflection.app).
 * 🩺 Most Recent Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
@@ -23,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
