@@ -1,5 +1,8 @@
-> "The important thing, once you have enough to eat and a nice house, is what you can do for others, what you can contribute to the enterprise as a whole." - Donald Knuth
+> "The important thing, once you have enough to eat and a nice house, is what you can do for others, what you can contribute to the enterprise as a whole." - _Donald Knuth_
 
+---
+
+> "It's a bit sad to think of all the high school kids turning their backs on building treehouses and sitting in class dutifully learning about Darwin or Newton to pass some exam, when the work that made Darwin and Newton famous was actually closer in spirit to building treehouses than studying for exams." - _Paul Graham, [A Project of One's Own](http://paulgraham.com/own.html)_
 ---
 
 
