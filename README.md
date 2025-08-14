@@ -13,7 +13,7 @@
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
 * ✍🏾 Favourite IDE: IntelliJ IDEA + [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
-* 📚 Most Recent Book: How to Win Friends and Influence People (as recommended in https://paulgraham.com/startupfaq.html)
+* 📚 Most Recent Book: The Hard Thing About Hard Things
 ---
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
