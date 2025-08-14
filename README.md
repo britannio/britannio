@@ -8,7 +8,7 @@
 
 ## Welcome to my profile!
 * 💻 Previously a Computer Science MEng student at the [University of Southampton](https://www.southampton.ac.uk/).
-* 💼 Most Recent Job: Lead Front-End Developer at [Reflection.app](https://reflection.app).
+* 💼 Most Recent Job: Co-Founder realmachines.ai
 * 🩺 Most Recent Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
