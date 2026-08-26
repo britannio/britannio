@@ -9,7 +9,7 @@
 ## Welcome to my profile!
 * 👶🏾 Programming since I was 9 (Windows batch scripts)
 * 💻 Read Computer Science (MEng) @ [University of Southampton](https://www.southampton.ac.uk/). Best module grade was 97% for my role in [Q-Octo](https://github.com/q-octo/q-octo) (an Electronics module...) 
-* 💼 Most Recent Role: Visiting Researcher (LLM Inference) @ Imperial College London ([Large-Scale Data & Systems Group](https://lsds.doc.ic.ac.uk/))
+* 💼 Most Recent Role: Visiting Researcher (LLM Inference) @ Imperial College London ([Large-Scale Data & Systems Group](https://lsds.doc.ic.ac.uk/)). https://arxiv.org/abs/2604.15186
 * 🩺 Last Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
