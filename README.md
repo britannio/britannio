@@ -7,13 +7,17 @@
 
 
 ## Welcome to my profile!
-* 💻 Previously a Computer Science MEng student at the [University of Southampton](https://www.southampton.ac.uk/).
-* 💼 Most Recent Job: Co-Founder realmachines.ai
-* 🩺 Most Recent Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
+* 👶🏾 Programming since I was 9 (Windows batch scripts)
+* 💻 Read Computer Science (MEng) @ [University of Southampton](https://www.southampton.ac.uk/). Best module grade was 97% for my role in [Q-Octo](https://github.com/q-octo/q-octo) (an Electronics module...) 
+* 💼 Most Recent Role: Visiting Researcher (LLM Inference) @ Imperial College London ([Large-Scale Data & Systems Group](https://lsds.doc.ic.ac.uk/))
+* 🩺 Last Internship: Software Engineer at [Wise](https://wise.com). [Read my blog post.](https://medium.com/wise-engineering/wise-engineering-internship-74d5dd1507fe)
 * 🥏 Favourite sport: Ultimate Frisbee
 * ⌨️ Favourite programming language: <strike><a href="https://github.com/britannio/lox">Lox</a></strike> Dart
-* ✍🏾 Favourite IDE: IntelliJ IDEA + [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
-* 📚 Most Recent Book: The Hard Thing About Hard Things
+* ✍🏾 Favourite Editor: Zed
+* 📚 Most Recent Book: The Design of Everyday Things
+* ⚡ Favourite Hackathons (as a solo participant):
+  * 🥇 UK's Shortest Hack - 3hr - Feb 2025: https://slop.britannio.com. Sites generated with Claude 3.5 Sonnet for ~$0.02 each.
+  * 🥈 Cognition RL Hack - 24hr - December 2025: https://www.linkedin.com/feed/update/urn:li:activity:7401638453492264960/ 
 ---
 ### Lets connect!
 [LinkedIn](https://www.linkedin.com/in/britannio) | [Twitter](https://twitter.com/britannioj)
